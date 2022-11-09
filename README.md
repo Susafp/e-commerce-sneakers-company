@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Susafp/e-commerce-sneakers-company.git)
-- Live Site URL: [Add live site URL here](https://susafp.github.io/e-commerce-sneakers-company/)
+- Solution URL: [https://github.com/Susafp/e-commerce-sneakers-company.git]
+- Live Site URL: [https://susafp.github.io/e-commerce-sneakers-company/]
 
 ## My process
 
