@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Susafp/e-commerce-sneakers-company.git)
-- Live Site URL: (https://susafp.github.io/e-commerce-sneakers-company/)
+- Solution URL: [https://github.com/Susafp/e-commerce-sneakers-company.git]
+- Live Site URL: [https://susafp.github.io/e-commerce-sneakers-company/]
 
 ## My process
 
