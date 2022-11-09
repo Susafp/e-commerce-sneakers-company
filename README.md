@@ -38,12 +38,12 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Susafp/e-commerce-sneakers-company.git)
+- Live Site URL: [Add live site URL here](https://susafp.github.io/e-commerce-sneakers-company/)
 
 ## My process
 
-### Ux
+### UX
 
 The design guidelines for this website can be found [here](design-guideline)
 The style guide for this website can be found [here](design-guideline/style-guide.md)
@@ -71,7 +71,7 @@ I've mainly used Microsoft Edge's Development tools to constantly test each new 
 
 #### HTML, CSS and JavaScript Code Validation
 
-To test this website, I went through each page and tested it feature by feature, used:
+To test this website, I used:
 
 - [W3C HTML Validator tool](https://validator.w3.org/#validate_by_input) to validate my HTML code. 
 Outcome: Two warnings, no errors.
@@ -114,19 +114,20 @@ The hosting platform that I've used for my project is GitHub Pages. To deploy my
 5. Created a new repository in GitHub called 'JS-Milestone-two'.
 6. Copied the below code from GitHub into the terminal window in my Visual Studio Code workspace:
 
-```git remote add origin https://github.com/Susafp/Allergens-Quiz-Milestone-two.git```
-```git push -u origin master```
+```git remote add origin https://github.com/Susafp/e-commerce-sneakers-company.git```
+```git branch -M main```
+```git push -u origin main```
 
 7. Entered my GitHub username and password to push the files from Git to GitHub.
 8. Went into 'Settings' on my repository page in GitHub.
-9. Selected the 'master branch' option under the 'GitHub Pages' section.
+9. Selected the 'main branch' option under the 'GitHub Pages' section.
 10. Ran several regular commits throughout my project.
 
 ### Running Code Locally
 
 To run my code locally, users can download a local copy of my code to their desktop by completing the following steps:
 
-1. Go to [my GitHub repository](https://github.com/Susafp/Allergens-Quiz-Milestone-two.git).
+1. Go to [my GitHub repository](https://github.com/Susafp/e-commerce-sneakers-company.git).
 2. Click on 'Clone or download'.
 3. Click on 'Download ZIP'.
 4. Once downloaded, extract the zip file's contents and run my website locally.
