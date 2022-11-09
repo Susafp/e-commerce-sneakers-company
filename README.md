@@ -74,25 +74,25 @@ I've mainly used Microsoft Edge's Development tools to constantly test each new 
 
 To test this website, I used:
 
-- [W3C HTML Validator tool](https://validator.w3.org/#validate_by_input) to validate my HTML code. 
-Outcome: Two warnings, no errors.
+1. [W3C HTML Validator tool](https://validator.w3.org/#validate_by_input) to validate my HTML code. 
+- Outcome: Two warnings, no errors.
 
-- [W3C CSS Validator tool](https://jigsaw.w3.org/css-validator/#validate_by_input) to validate my CSS code.
-Outcome: 
+2. [W3C CSS Validator tool](https://jigsaw.w3.org/css-validator/#validate_by_input) to validate my CSS code.
+- Outcome: 
 "Line 22 - Value Error : font-family is an incorrect operator : 'Kumbh Sans' sans-serif" (a comma was missing).
 "Line 726 - Value Error : background-color none is not a background-color value : none" (it should be "white").
 
-- [Code Beautyfy JavaScript Validator tool](https://codebeautify.org/jsvalidate) to validate my JavaScript code.
-Outcome: 
-Line 1 - Unexpected 'const': "const menu = document.querySelector('.menu');"
-This prevents the scanning of the rest of the document:	"Stopping. (0% scanned)"
+3. [Code Beautyfy JavaScript Validator tool](https://codebeautify.org/jsvalidate) to validate my JavaScript code.
+- Outcome: 
+Line 1 - Unexpected 'const': "const menu = document.querySelector('.menu');".
+This prevents the scanning of the rest of the document:	"Stopping. (0% scanned)".
 
-- [Microsoft Edge - Lighthouse tool](testing/lighthouse-report.pdf)
-Outcome: 
-Performance: 99%
-Accessibility: 94%
-Best Practices: 100%
-SEO: 100%
+4. [Microsoft Edge - Lighthouse tool](testing/lighthouse-report.pdf)
+- Outcome: 
+ - Performance: 99%,
+ - Accessibility: 94%,
+ - Best Practices: 100%,
+ - SEO: 100%
 
 ### What I learned
 
@@ -147,6 +147,6 @@ A big thank you to my course mentor Scott Nnaghor for beeing there to help and s
 
 - Frontend Mentor - [@Susafp](https://www.frontendmentor.io/home)
 - Github - [Susafp](https://github.com/Susafp)
-- Linkedin - [Susana-fP] - (https://www.linkedin.com/in/susana-fp/)
+- Linkedin - [Susana-fP](https://www.linkedin.com/in/susana-fp/)
 
 
